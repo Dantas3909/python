@@ -3,3 +3,10 @@
 print("Hello, World!")
 
 #agora rode o código acima e veja a mensagem "Hello, World!" sendo exibida na tela.
+
+#agora vamos falar sobre variáveis, que são espaços na memória do computador que armazenam valores. Podemos criar uma variável e atribuir um valor a ela usando o sinal de igual (=). 
+# Por exemplo:
+nome = "Dantas"
+idade = 25
+peso = 70.5
+print(f"Meu nome é {nome}, tenho {idade} anos e peso {peso} kg.")
