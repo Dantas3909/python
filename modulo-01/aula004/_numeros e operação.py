@@ -8,3 +8,10 @@ s = n1/n2
 print(f"A divisão de {n1} e {n2} é {s}")
 print(f"O tipo do valor {s} é {type(s)}")
 
+# O .2f formata o número para exibir 2 casas decimais (ideal para valores em dinheiro, como centavos).
+
+# : inicia a formatação dentro da f-string.
+
+# .2 define 2 dígitos após o ponto decimal.
+
+# f indica um número de ponto flutuante (float).
