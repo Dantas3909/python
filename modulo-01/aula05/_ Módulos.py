@@ -6,9 +6,7 @@
 
 # O comando from iimporta funçoes específicas de um módulo
 
-# import math é para importar o módulo math, que contém funções 
-
-# matemáticas como seno, cosseno, logaritmo, etc. Por exemplo, você pode usar a função sqrt() do módulo math para calcular a raiz quadrada de um número:
+# import math é para importar o módulo math, que contém funções matemáticas como seno, cosseno, logaritmo, etc. Por exemplo, você pode usar a função sqrt() do módulo math para calcular a raiz quadrada de um número.
 
 #ceil é uma função do módulo math que arredonda um número para cima, retornando o menor inteiro maior ou igual ao número fornecido. Por exemplo, math.ceil(4.2) retornará 5.
 
